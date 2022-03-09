@@ -1,0 +1,17 @@
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\bin\Debug\netstandard2.0\Ejercicio2parcial2.deps.json
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\bin\Debug\netstandard2.0\Ejercicio2parcial2.dll
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\bin\Debug\netstandard2.0\ref\Ejercicio2parcial2.dll
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\bin\Debug\netstandard2.0\Ejercicio2parcial2.pdb
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\obj\Debug\netstandard2.0\Ejercicio2parcial2.csproj.AssemblyReference.cache
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\obj\Debug\netstandard2.0\Ejercicio2parcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\obj\Debug\netstandard2.0\Ejercicio2parcial2.AssemblyInfoInputs.cache
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\obj\Debug\netstandard2.0\Ejercicio2parcial2.AssemblyInfo.cs
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\obj\Debug\netstandard2.0\Ejercicio2parcial2.csproj.CoreCompileInputs.cache
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\obj\Debug\netstandard2.0\Ejercicio2parcial2.dll
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\obj\Debug\netstandard2.0\ref\Ejercicio2parcial2.dll
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\obj\Debug\netstandard2.0\Ejercicio2parcial2.pdb
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\obj\Debug\netstandard2.0\Views\ShowSignatureInformation.xaml.g.cs
+C:\Users\magdi\source\repos\Ejercicio2parcial2\Ejercicio2parcial2\Ejercicio2parcial2\obj\Debug\netstandard2.0\Views\SignaturesList.xaml.g.cs

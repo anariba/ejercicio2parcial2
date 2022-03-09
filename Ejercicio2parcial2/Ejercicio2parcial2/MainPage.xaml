@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:forms="clr-namespace:SignaturePad.Forms;assembly=SignaturePad.Forms"
+             x:Class="Ejercicio2parcial2.MainPage">
+
+    <StackLayout>
+
+        <forms:SignaturePadView
+            x:Name="Firma"
+            StrokeWidth="3"
+            WidthRequest="280"
+            HeightRequest="260"
+            HorizontalOptions="Center"
+            VerticalOptions="CenterAndExpand"
+            
+            />
+        <Entry x:Name="txnombre" 
+               Placeholder="Nombre"
+              
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center"/>
+        <Entry x:Name="txdescrip" 
+               Placeholder="Descripcion"
+              
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center"/>
+
+        <Button x:Name="GuardarFirma"
+                Text="Guardar"
+                Clicked="GuardarFirma_Clicked"
+                VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center"/>
+        <Button x:Name="BtnLista" 
+                Text="Lista"
+                Clicked="BtnLista_Clicked"
+                VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center"/>
+
+        <Image x:Name="imgSignature" Grid.Row="0" Grid.Column="0" HeightRequest="200" WidthRequest="200"
+Margin="2" VerticalOptions="Start" HorizontalOptions="Start"/>
+
+    </StackLayout>
+
+</ContentPage>
